@@ -1,0 +1,23 @@
+{
+  "name": "dbs-fragmentation",
+  "description": "Distributed database system - Fragmentation demo",
+  "main": "index.js",
+  "authors": [
+    "Van-Duyet Le <me@duyetdev.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/duyetdev/dbs-fragment-algorithms",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flat-ui": "^2.3.0",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.3"
+  }
+}
